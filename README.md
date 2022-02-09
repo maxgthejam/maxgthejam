@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
 **maxgthejam/maxgthejam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ I'm from Tijuana, Baja California.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: my favorite hobby is listen to music and writing cartoon histories.
 
-SCHEDULE
+### SCHEDULE
 
 |                   |               H              |               O              |               R              |               A              |        R      I      O       |
 |-------------------|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
