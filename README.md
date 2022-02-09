@@ -5,14 +5,17 @@
 
 Here are some ideas to get you started:
 
+
+-->
+Leon Silva
+20 years old. I'm from Tijuana, Baja California.
+
 - 🌱 I’m currently learning software coding and database management.
 - 👯 I’m looking to collaborate on serious software enterprises.
 - 💬 Ask me about music and general knowledge about plants and animals.
 - 📫 How to reach me: leon.silva193@tectijuana.edu.mx
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: my favorite hobby is listen to music and writing cartoon histories.
--->
-
 |                   |               H              |               O              |               R              |               A              |        R      I      O       |
 |-------------------|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
 |     HORA / DIA    |             LUNES            |            MARTES            |           MIERCOLES          |            JUEVES            |            VIERNES           |
