@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 
 
 -->
-Leon Silva
-20 years old. I'm from Tijuana, Baja California.
+Leon Silva.
+20 years old. 
+I'm from Tijuana, Baja California.
 
 - 🌱 I’m currently learning software coding and database management.
 - 👯 I’m looking to collaborate on serious software enterprises.
