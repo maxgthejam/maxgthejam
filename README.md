@@ -5,22 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning software coding and database management.
+- 👯 I’m looking to collaborate on serious software enterprises.
+- 💬 Ask me about music and general knowledge about plants and animals.
+- 📫 How to reach me: leon.silva193@tectijuana.edu.mx
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: my favorite hobby is listen to music and writing cartoon histories.
 -->
 
 |                   |               H              |               O              |               R              |               A              |        R      I      O       |
 |-------------------|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
-|                   |             LUNES            |            MARTES            |           MIERCOLES          |            JUEVES            |            VIERNES           |
+|     HORA / DIA    |             LUNES            |            MARTES            |           MIERCOLES          |            JUEVES            |            VIERNES           |
 | 1:00 pm a 2:00 pm |   TALLER DE INVESTIGACION I  |   TALLER DE INVESTIGACION I  |   TALLER DE INVESTIGACION I  |   TALLER DE INVESTIGACION I  |               -              |
 | 2:00 pm a 3:00 pm |     LENGUAJES DE INTERFAZ    |     LENGUAJES DE INTERFAZ    |     LENGUAJES DE INTERFAZ    |     LENGUAJES DE INTERFAZ    |               -              |
 | 3:00 pm a 4:00 pm |          GRAFICACION         |          GRAFICACION         |          GRAFICACION         |          GRAFICACION         |               -              |
 | 4:00 pm a 5:00 pm |          SIMULACION          |          SIMULACION          |          SIMULACION          |          SIMULACION          |          SIMULACION          |
 | 5:00 pm a 6:00 pm |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |
-| 6:00 pm a 7:00 pm | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS 
+| 6:00 pm a 7:00 pm | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS |
