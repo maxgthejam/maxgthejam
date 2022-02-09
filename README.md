@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|                   |               H              |               O              |               R              |               A              |        R      I      O       |
+|-------------------|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
+|                   |             LUNES            |            MARTES            |           MIERCOLES          |            JUEVES            |            VIERNES           |
+| 1:00 pm a 2:00 pm |   TALLER DE INVESTIGACION I  |   TALLER DE INVESTIGACION I  |   TALLER DE INVESTIGACION I  |   TALLER DE INVESTIGACION I  |               -              |
+| 2:00 pm a 3:00 pm |     LENGUAJES DE INTERFAZ    |     LENGUAJES DE INTERFAZ    |     LENGUAJES DE INTERFAZ    |     LENGUAJES DE INTERFAZ    |               -              |
+| 3:00 pm a 4:00 pm |          GRAFICACION         |          GRAFICACION         |          GRAFICACION         |          GRAFICACION         |               -              |
+| 4:00 pm a 5:00 pm |          SIMULACION          |          SIMULACION          |          SIMULACION          |          SIMULACION          |          SIMULACION          |
+| 5:00 pm a 6:00 pm |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |    LENGUAJES Y AUTOMATAS I   |
+| 6:00 pm a 7:00 pm | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS | ARQUITECTURA DE COMPUTADORAS |
