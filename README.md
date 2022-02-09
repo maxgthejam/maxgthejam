@@ -7,11 +7,10 @@ Here are some ideas to get you started:
 
 
 -->
-Leon Silva.
+My name is Leon Silva.
 
-20 years old. 
+I'm 20 years old student from Tijuana, Baja California.
 
-I'm from Tijuana, Baja California.
 
 - 🌱 I’m currently learning software coding and database management.
 - 👯 I’m looking to collaborate on serious software enterprises.
