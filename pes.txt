@@ -1,0 +1,3 @@
+Buen dia, programas .cpp CARGADOS ANTES del dia 25 de Marzo, fecha de entrega (puede comprobar fecha de subida en repositorio),
+sin embargo el directorio fue creado despues de 25 de Marzo debido a desconocimiento del entorno GitHub. Una disculpa, no volvera
+a pasar en el futuro y espero comprenda la situacion.
